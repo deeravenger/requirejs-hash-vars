@@ -1,0 +1,14 @@
+{
+    "name": "hash-vars"
+  , "version": "0.8.0"
+  , "description": "AMD loader plugin for simple work with url hash."
+  , "keywords": [ "requirejs", "plugin", "AMD loader", "url", "hash" ]
+  , "maintainers": [
+        {
+            "name": "Dmitry Kuznetsov"
+          , "email": "kuznetsov2d@gmail.com"
+        }
+    ]
+  , "homepage": "https://github.com/dmkuznetsov/requirejs-hash-vars"
+  , "github": "https://github.com/dmkuznetsov/requirejs-hash-vars"
+}
